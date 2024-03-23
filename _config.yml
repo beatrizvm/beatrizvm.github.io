@@ -58,7 +58,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Europe/Berlin # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -98,7 +98,7 @@ title: "Beatriz Vieira Mourato" # Site name or title, also used in jekyll-seo-ta
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Personal website" # Site description and default description, also used in jekyll-seo-tag
 url: "https://beatrizvm.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/beatrizvm.github.io"
+baseurl: ""
 repo: "https://github.com/beatrizvm/beatrizvm"
 email: "beatriz.mourato@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
