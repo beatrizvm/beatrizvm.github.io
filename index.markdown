@@ -14,11 +14,13 @@ A biologist by training, I am interesting in finding and exploring
 biological patterns hidden in genomic data. For this I rely on data
 analysis and visualization.
 
------
+
+<!---
 
 Updates:
 
-1. The PhDnet 2022 Survey Report is now out [link]
+1. The [PhDnet 2022 Survey Report](https://pure.mpg.de/rest/items/item_3530594/component/file_3530897/content) is now released.
 
 2. Gave a talk on "Globally unique regions in mammalian genomes" at the
 Women's Talk Marathon 2024 from Kiel University.
+-->
