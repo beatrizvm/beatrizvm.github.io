@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About
+title: Short CV
+feature_image: "/uploads/BeachRomo.jpeg"
+
 permalink: /about/
 ---
+
 ## Experience
 
 <p>

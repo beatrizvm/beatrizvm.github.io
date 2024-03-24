@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Publications
+feature_image: "/uploads/BeachRomo.jpeg"
+
 permalink: /publications/
 ---
 

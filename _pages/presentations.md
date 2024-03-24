@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Presentations
+feature_image: "/uploads/BeachRomo.jpeg"
 permalink: /presentations/
 
 ---
