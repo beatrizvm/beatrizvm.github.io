@@ -8,12 +8,31 @@ body {
   overflow-x: hidden;
 }
 
+.avatar {
+  border-radius: 75%;
+  margin: 0 auto;
+  padding: inherit;
+  display: block;
+}
+
 .container {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
 }
 
+
+.first-column {
+  width: 10%;
+  padding: 0 10px 0 0;
+  float: left;
+}
+
+.second-column {
+  width: 90%;
+  padding: 0 10px 0 0;
+  float: right;
+}
 
 // Header, feature and footer
 .header,
