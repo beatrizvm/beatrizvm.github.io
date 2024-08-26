@@ -5,7 +5,7 @@ feature_image: "/uploads/BeachRomo.jpeg"
 permalink: /publications/
 ---
 
--Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., & Haubold, B. (2024). Marker discovery in the large. Bioinformatics, 1-7. [https://doi.org/10.1093/bioadv/vbae113](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae113/7721998)
+- Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., & Haubold, B. (2024). Marker discovery in the large. Bioinformatics, 1-7. [https://doi.org/10.1093/bioadv/vbae113](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae113/7721998)
 
 - Shimizu-Inatsugi, R., Morishima, A., Mourato, B., Shimizu, K. K., & Sato, Y. (2023). Phenotypic variation of a new synthetic allotetraploid Arabidopsis kamchatica enhanced in natural environment. Frontiers in plant science, 13, 1058522. [https://doi.org/10.3389/fpls.2022.1058522](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.1058522/full)
 
