@@ -9,10 +9,11 @@ permalink: /about/
     <span style="float:right;">2020-Ongoing</span>
     <div class="clearix"></div>
 </p>
-Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology
+Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology, Plön
 
-- Do unique regions in the mammalian clade share the same functionalization?
-- Large-scale finding of lineage-specific regions in prokaryotes and eurkaryotes.
+- Do unique regions in the mammalian clade share the same functions?
+- Large-scale finding of lineage-specific regions in prokaryotes and eukaryotes.
+- Automatic detection of diagnostic markers from whole bacteria genomes.
 
 <p>
     <span> <b>Research Fellowship</b> </span>
@@ -23,7 +24,7 @@ Population and Conservation Genetics Group, Gulbenkian Institute of
 Science
 
 - Can statistic modelling help us understand habitat loss and
-fragmentation in Madagascar, a biodiversity hotspot
+fragmentation in Madagascar, a biodiversity hotspot?
 
 <p>
     <span> <b> MSc in Evolution and Systematics</b> </span>
