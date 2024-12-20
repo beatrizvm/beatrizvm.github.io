@@ -5,8 +5,19 @@ feature_image: "/uploads/BeachRomo.jpeg"
 permalink: /about/
 ---
 <p>
+    <span> <b>Bioinformatician</b> </span>
+    <span style="float:right;">2025-ongoing</span>
+    <div class="clearix"></div>
+</p>
+Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology, Plön
+
+- Identification and annotation of unique genomic regions.
+- Maintenance and development of new software available at <a
+  href="https://github.com/evolbioinf/"> github.com/evolbioinf</a>
+
+<p>
     <span> <b>Doctoral Research</b> </span>
-    <span style="float:right;">2020-Ongoing</span>
+    <span style="float:right;">2020-2024</span>
     <div class="clearix"></div>
 </p>
 Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology, Plön
@@ -46,5 +57,5 @@ University of Évora, Portugal
 
 ## Other Contributions
 
-- PhD Representative at the Max Planck Institute for Evolutionary Biology, 2021
-- Co-coordinator of the PhDnet Survey group, 2021 to 2023
+- PhD Representative at the Max Planck Institute for Evolutionary Biology, 2021.
+- Co-coordinator of the <a href="https://www.phdnet.mpg.de/survey"> PhDnet Survey group</a> 2021 to 2023.

@@ -7,9 +7,9 @@ aside: true
 ---
 <img class="avatar" src="/uploads/CK.jpeg" alt="Photo of me" style="width:200px"> 
 
-I am a bioinformatician, finishing my doctoral degree in comparative
-genomics at the bioinformatics research group at the [Max Plank
-Institute for Evolutionary Biology](https://www.evolbio.mpg.de/).
+I am a bioinformatician at the bioinformatics research group at the
+[Max Plank Institute for Evolutionary
+Biology](https://www.evolbio.mpg.de/).
 
 A biologist by training, I am interested in finding and exploring
 biological patterns hidden in genomic data. For this I rely on data
