@@ -14,7 +14,7 @@ doctoral degree with a thesis on [the detection and annotation of
 unique genomic
 regions](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2).
 
-A biologist by training, I am interesting in finding and exploring
+A biologist by training, I am interested in finding and exploring
 biological patterns hidden in genomic data. For this I rely on data
 analysis and visualization.
 
