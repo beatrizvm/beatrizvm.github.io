@@ -7,18 +7,17 @@ aside: true
 ---
 <img class="avatar" src="/uploads/CK.jpeg" alt="Photo of me" style="width:200px"> 
 
-I am bioinformatician, finishing my doctoral degree in comparative
-genomics at the bioinformatics research group at the [Max Plank
-Institute for Evolutionary Biology](https://www.evolbio.mpg.de/).
+I am bioinformatician at the [bioinformatics research group]() at the
+[Max Plank Institute for Evolutionary
+Biology](https://www.evolbio.mpg.de/), where I recently finished my
+doctoral degree with a thesis on [the detection and annotation of
+unique genomic
+regions](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2).
 
 A biologist by training, I am interesting in finding and exploring
 biological patterns hidden in genomic data. For this I rely on data
 analysis and visualization.
 
-Currently, I am exploring the functionality of [globally unique
-genomic
-regions](https://academic.oup.com/bioinformatics/article/35/11/1813/5161082)
-in mammalian genomes, and how can we use unique regions to develop a
-large scalling pipeline for finding and developing [diagnostic marker
-regions](https://academic.oup.com/bioinformatics/article/37/15/2081/6124302)
-in bacterial pathogens.
+Currently, I am wrapping up one of my doctoral projects on the
+detection of lineage-specific regions and further developing my
+programming skills.
