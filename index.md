@@ -7,11 +7,11 @@ aside: true
 ---
 <img class="avatar" src="/uploads/CK.jpeg" alt="Photo of me" style="width:200px"> 
 
-I am bioinformatician at the [bioinformatics research group]() at the
-[Max Plank Institute for Evolutionary
-Biology](https://www.evolbio.mpg.de/), where I recently finished my
-doctoral degree with a thesis on [the detection and annotation of
-unique genomic
+I am bioinformatician at the [bioinformatics research
+group](https://evolbioinf.github.io/) at the [Max Plank Institute for
+Evolutionary Biology](https://www.evolbio.mpg.de/), where I recently
+finished my doctoral degree with a thesis on [the detection and
+annotation of unique genomic
 regions](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2).
 
 A biologist by training, I am interested in finding and exploring

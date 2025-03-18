@@ -5,15 +5,11 @@ feature_image: "/uploads/BeachRomo.jpeg"
 permalink: /publications/
 ---
 
-- Vieira Mourato, B. \& Haubold, B. (2025) "Fast Detection of Unique Genomic Regions". Computational and Structural Biotechnology. [https://doi.org/10.1016/j.csbj.2025.02.025](https://doi.org/10.1016/j.csbj.2025.02.025).
-
-- Vieira Mourato, B. & Haubold, B (2024). Detection and annotation of unique regions in mammalian genomes. G3. [ https://doi.org/10.1093/g3journal/jkae257](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkae257/7877325)
-
-- Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., & Haubold, B. (2024). Marker discovery in the large. Bioinformatics, 1-7. [https://doi.org/10.1093/bioadv/vbae113](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae113/7721998)
+- Vieira Mourato, B. & Haubold, B. (2025) "Fast Detection of Unique Genomic Regions". Computational and Structural Biotechnology. [https://doi.org/10.1016/j.csbj.2025.02.025](https://doi.org/10.1016/j.csbj.2025.02.025).
 
 - Vieira Mourato, B. (2025) "Detection and annotation of unique genomic regions". (Doctoral dissertation). [https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2).
 
-- Vieira Mourato, B. \& Haubold, B. (2025) "Detection and annotation of unique regions in mammalian genomes". G3: Genes, Genomes, Genetics, 15(1).[https://doi.org/10.1093/g3journal/jkae257](https://doi.org/10.1093/g3journal/jkae257).
+- Vieira Mourato, B. & Haubold, B. (2025) "Detection and annotation of unique regions in mammalian genomes". G3: Genes, Genomes, Genetics, 15(1).[https://doi.org/10.1093/g3journal/jkae257](https://doi.org/10.1093/g3journal/jkae257).
   
 - Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., & Haubold, B. (2024). "Marker discovery in the large". Bioinformatics, 1-7. [https://doi.org/10.1093/bioadv/vbae113](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae113/7721998)
 

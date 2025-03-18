@@ -12,19 +12,7 @@ permalink: /about/
 </p>
 Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology
 - Support of current tools developed by RG Bioinformatics
-<p>
 
-
-<p>
-    <span> <b>Bioinformatician</b> </span>
-    <span style="float:right;">2025-ongoing</span>
-    <div class="clearix"></div>
-</p>
-Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology, Pl√∂n
-
-- Identification and annotation of unique genomic regions.
-- Maintenance and development of new software available at <a
-  href="https://github.com/evolbioinf/"> github.com/evolbioinf</a>
 
 <p>
     <span> <b>Doctoral Research</b> </span>
@@ -35,6 +23,7 @@ Research Group Bioinformatics, Max Plank Institute for Evolutionary Biology, Pl√
 - Do unique regions in the mammalian clade share the same functionalization?
 - Large-scale finding of lineage-specific regions in prokaryotes and eurkaryotes.
 -Thesis: Detection and annotation of unique genomic regions
+
 
 <p>
     <span> <b>Research Fellowship</b> </span>
