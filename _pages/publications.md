@@ -7,8 +7,6 @@ permalink: /publications/
 
 - Vieira Mourato, B. & Haubold, B. (2025) "Fast Detection of Unique Genomic Regions". Computational and Structural Biotechnology. [https://doi.org/10.1016/j.csbj.2025.02.025](https://doi.org/10.1016/j.csbj.2025.02.025).
 
-- Vieira Mourato, B. (2025) "Detection and annotation of unique genomic regions". (Doctoral dissertation). [https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2).
-
 - Vieira Mourato, B. & Haubold, B. (2025) "Detection and annotation of unique regions in mammalian genomes". G3: Genes, Genomes, Genetics, 15(1).[https://doi.org/10.1093/g3journal/jkae257](https://doi.org/10.1093/g3journal/jkae257).
   
 - Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., & Haubold, B. (2024). "Marker discovery in the large". Bioinformatics, 1-7. [https://doi.org/10.1093/bioadv/vbae113](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae113/7721998)
@@ -22,6 +20,8 @@ permalink: /publications/
 ----------
 
 # Others
+
+- Vieira Mourato, B. (2025) "Detection and annotation of unique genomic regions". (Doctoral dissertation). [https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2024-01212-2).
 
 - Mourato, B. V., Vucetic, A., Pullan, D., Lin, D., Li, J., & Lu, T. (2023). "PhDnet Report 2022". [doi/10.17617/2.3530594](https://pure.mpg.de/rest/items/item_3530594/component/file_3530897/content)
 
